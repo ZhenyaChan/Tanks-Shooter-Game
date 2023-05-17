@@ -1,0 +1,39 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstExample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  3D_World_Traversal.cpp
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(274,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(476,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(495,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(500,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(512,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(513,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(514,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(515,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(534,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(537,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(538,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(539,19): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(540,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(568,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(576,17): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(596,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(597,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(598,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(599,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(611,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(619,21): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(628,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(628,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(628,106): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(630,21): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(640,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(650,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\FirstExample\3D_World_Traversal.cpp(775,16): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+  FirstExample.vcxproj -> C:\Users\chanz\OneDrive\Рабочий стол\GAM531\weeks\Textured_3D_Space_Traverse_With_Yaw_Pitch\Debug\3D_World.exe
